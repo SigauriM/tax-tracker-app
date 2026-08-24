@@ -653,7 +653,6 @@ Regeln, die fast das gesamte Verhalten der App erklären:
 Ehrlich zum aktuellen Stand des Projekts:
 
 - lokale Daten sind nicht verschlüsselt, es gibt keine PIN/Biometrie;
-- beim ersten Login können lokale Daten die Cloud-Daten überschreiben (kein Auswahldialog);
 - eine Abo-Tabelle (`subscriptions`) existiert im Schema, aber es gibt noch keine
   serverseitige Rechteprüfung;
 - einige Module sind groß und sollten aufgeteilt werden;
